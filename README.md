@@ -1,28 +1,6 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
+# GifExpertApp
 
-node_modules
-dist
-dist-ssr
-*.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
-
+Este es mi repositorio del proyecto de GifExpert App de React 
 
 #Proceso de carga en git
 #en terminal en la ubicación del proyecto
@@ -30,4 +8,8 @@ dist-ssr
 #git add . : prepara el commit de todos los archivos
 #git commit -m "nombre del commit" : hace el commit y asigna el nombre
 # git checkout -- . : recosntruye todo el proyecto a como estaba el último commit
+
+//Api Key: 2gV0OUWUVN9BwB9uV1LAJkntG09POhb4
+// Yarn build es un comando para crear el dist para poder desplegarlo 
+//a prd desde netlify
 
